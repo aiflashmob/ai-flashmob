@@ -145,7 +145,7 @@ Integrate flashcard creation and study analytics into any AI assistant that supp
 
 ## 🤝 Support
 
-- **📧 Email**: support@ai-flashmob.com
+- **📧 Email**: ai.flashmob@gmail.com
 - **🐙 GitHub**: [AI Flashmob Community](https://discord.gg/ai-flashmob)
 - **📖 Documentation**: Complete guides and tutorials
 - **🐛 Bug Reports**: GitHub Issues
