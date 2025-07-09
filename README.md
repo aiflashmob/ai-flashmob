@@ -90,7 +90,8 @@ Add this to your Claude Desktop configuration file:
 {
   "mcpServers": {
     "ai-flashmob": {
-      "command": "npx ai-flashmob-mcp",
+      "command": "npx",
+      "args": ["ai-flashmob-mcp@latest"],
       "env": {
         "PUBLIC_USER_ID": "your-public-user-id",
         "SECRET_KEY": "your-secret-key"
